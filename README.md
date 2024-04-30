@@ -1,11 +1,11 @@
-BellaBeat Case Study Analysis
-Project Overview
+BellaBeat Case Study Analysis:
+
 This project focuses on analyzing user data from the FitBit Fitness Tracker to gain insights into smart device usage trends. These insights are specifically tailored to inform and enhance marketing strategies for Bellabeat, a high-tech company that designs health-focused smart products for women.
 
-Data Source
+Data Source:
 The analysis utilized the "FitBit Fitness Tracker Data" dataset available on Kaggle. This dataset comprises activity, heart rate, and sleep data from thirty users, collected over a one-month period.
 
-Tools Used
+Tools Used:
 R: Data cleaning, manipulation, and analysis were performed using R.
 Tableau: Data visualization and interactive dashboards were created to present the findings.
 Key Steps in the Analysis
